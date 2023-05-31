@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+    color:aqua
+    
+}
+td,th{
+    text-align: left;
+    color: blue;
+}
+#f3{
+    background-color: powderblue;
+    
+}
